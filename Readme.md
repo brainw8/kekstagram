@@ -1,7 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Полина Катышева](https://up.htmlacademy.ru/javascript/11/user/262423).
-* Наставник: `Сама себе наставник=)`.
+
 
 ---
 
